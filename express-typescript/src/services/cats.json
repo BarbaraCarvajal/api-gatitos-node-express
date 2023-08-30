@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luna",
+        "raza": "siames",
+        "fecha_nacimiento": "2019-05-15",
+        "peso": 4.5,
+        "personalidad": "fuerte",
+        "caracteristicas": "Luna es un gato curioso y juguetón. Le encanta perseguir pelotas y explorar nuevos lugares. Es sociable con las personas y tiende a ser vocal para comunicarse."
+    },
+    {
+        "id": 2,
+        "nombre": "Simba",
+        "raza": "maine coon",
+        "fecha_nacimiento": "2021-02-10",
+        "peso": 7.2,
+        "personalidad": "sociable",
+        "caracteristicas": "Simba es un gato grande y tranquilo. A pesar de su tamaño, es muy gentil y tierno. Le gusta descansar en lugares cómodos y observar su entorno. Es leal a su dueño y disfruta de momentos de cariño."
+    },
+    {
+        "id": 3,
+        "nombre": "Milo",
+        "raza": "persa",
+        "fecha_nacimiento": "2016-09-30",
+        "peso": 5.8,
+        "caracteristicas": "Milo es un gato independiente y reservado. Disfruta de pasar tiempo solo y es bastante relajado. Tiene una personalidad tranquila y se lleva bien con otros gatos en su hogar."
+    },
+    {
+        "id": 4,
+        "nombre": "Frutilla",
+        "raza": "tuxedo",
+        "fecha_nacimiento": "2012-02-13",
+        "peso": 4.5,
+        "personalidad": "poco amistosa",
+        "caracteristicas": "Mokita es un gato enérgico y aventurero. Siempre está buscando nuevas formas de entretenerse y puede pasar horas jugando. Es curioso y se interesa por todo lo que sucede a su alrededor."
+    },
+    {
+        "id": 5,
+        "nombre": "Manzanito",
+        "raza": "angora",
+        "fecha_nacimiento": "2017-09-25",
+        "peso": 6.2,
+        "personalidad": "aventurera",
+        "caracteristicas": "Manzanito es un gato elegante y tranquilo. Le gusta relajarse en lugares cómodos y disfrutar de momentos de tranquilidad. Es cariñoso con su dueño y tiene una mirada curiosa que parece siempre estar observando."
+    },
+    {
+        "id": 6,
+        "nombre": "Oliver",
+        "raza": "atigrado",
+        "fecha_nacimiento": "2022-07-08",
+        "peso": 4.0,
+        "personalidad": "timida",
+        "caracteristicas": "Oliver es un gato juguetón y amigable. Le encanta jugar con pelotas y perseguir plumas. Siempre está dispuesto a interactuar con las personas y se adapta fácilmente a nuevos entornos."
+    },
+    {
+        "id": 7,
+        "nombre": "Mia",
+        "raza": "siames",
+        "fecha_nacimiento": "2023-01-20",
+        "peso": 3.6,
+        "personalidad": "miedosa",
+        "caracteristicas": "Mia es una gata curiosa y vocal. Le gusta explorar cada rincón de la casa y comunicarse con maullidos. Es cariñosa con su dueño y disfruta de momentos de juego."
+    },
+    {
+        "id": 8,
+        "nombre": "Leo",
+        "raza": "persa",
+        "fecha_nacimiento": "2019-10-12",
+        "peso": 6.8,
+        "personalidad": "juguetona",
+        "caracteristicas": "Leo es un gato tranquilo y relajado. Le gusta que lo acaricien y suele dejarse llevar como un muñeco de trapo cuando lo levantan. Es leal a su dueño y disfruta de la compañía."
+    },
+    {
+        "id": 9,
+        "nombre": "Nala",
+        "raza": "angora",
+        "fecha_nacimiento": "2020-06-05",
+        "peso": 5.4,
+        "personalidad": "fuerte",
+        "caracteristicas": "Nala es una gata curiosa y activa. Le gusta jugar a perseguir luces y sombras, y siempre está explorando su entorno. Es cariñosa con su familia y disfruta de momentos de juego interactivo."
+    },
+    {
+        "id": 10,
+        "nombre": "Max",
+        "raza": "sphynx",
+        "fecha_nacimiento": "2021-09-17",
+        "peso": 3.9,
+        "personalidad": "sociable",
+        "caracteristicas": "Max es un gato sin pelo con una personalidad cálida. Le encanta acurrucarse y busca el calor de las personas y otros animales. Es curioso y le gusta estar en el centro de la atención."
+    },
+    {
+        "id": 11,
+        "nombre": "Lola",
+        "raza": "siberiana",
+        "fecha_nacimiento": "2016-03-29",
+        "peso": 6.5,
+        "personalidad": "aventurera",
+        "caracteristicas": "Lola es una gata reservada pero cariñosa. Disfruta de momentos de tranquilidad en rincones acogedores y muestra su afecto de manera sutil. Es independiente pero también disfruta de la compañía."
+    },
+    {
+        "id": 12,
+        "nombre": "Rocky",
+        "raza": "atigrado",
+        "fecha_nacimiento": "2022-11-01",
+        "peso": 4.2,
+        "personalidad": "fuerte",
+        "caracteristicas": "Rocky es un gato lleno de energía y curiosidad. Siempre está en movimiento y le encanta explorar su entorno. Es amigable con las personas y disfruta de juegos interactivos."
+    },
+    {
+        "id": 13,
+        "nombre": "Coco",
+        "raza": "maine Coon",
+        "fecha_nacimiento": "2020-04-09",
+        "peso": 7.0,
+        "personalidad": "timida",
+        "caracteristicas": "Coco es un gato tranquilo y observador. Le gusta pasar tiempo mirando por la ventana y relajándose en lugares altos. Es leal a su dueño y disfruta de momentos de tranquilidad."
+    },
+    {
+        "id": 14,
+        "nombre": "Mokita",
+        "raza": "Persa",
+        "fecha_nacimiento": "2019-02-13",
+        "peso": 4.5,
+        "personalidad": "sociable",
+        "caracteristicas": "Mokita es una gata juguetona y amigable. Le gusta interactuar con las personas y otros gatos, y suele tener una actitud relajada. Es curioso y siempre está dispuesto a comer churu."
+    },
+    {
+        "id": 15,
+        "nombre": "Lucha",
+        "raza": "sphynx",
+        "fecha_nacimiento": "2018-06-13",
+        "peso": 3.6,
+        "personalidad": "miedosa",
+        "caracteristicas": "Lucha es una gata tranquila y reflexiva. Le gusta pasar tiempo acurrucado en lugares cómodos y observar su entorno. Es cariñosa con su familia cercana y disfruta de momentos de serenidad."
+    },
+    {
+        "id": 16,
+        "nombre": "Bella",
+        "raza": "tuxedo",
+        "fecha_nacimiento": "2019-08-05",
+        "peso": 6.3,
+        "personalidad": "poco amistosa",
+        "caracteristicas": "Bella es una gata dulce y tranquila. Le gusta que la acaricien y suele relajarse en posiciones graciosas. Es leal a su dueño y disfruta de la compañía cercana."
+    }
+]
